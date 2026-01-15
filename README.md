@@ -1,2 +1,1 @@
-test"# nvidia-gpu-power-control" 
-"# nvidia-gpu-power-control" 
+A CLI utility to manage Nvidia GPU power limits via drivers with Task Scheduler integration for automatic application on boot.
